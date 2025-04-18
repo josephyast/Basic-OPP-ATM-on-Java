@@ -24,6 +24,17 @@ bin/
 
 ### VS Code ###
 .vscode/
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled files
+*.class
+/out/
+
+# Log Files
+*.log
 
 ### Mac OS ###
 .DS_Store
+Thumbs.db
